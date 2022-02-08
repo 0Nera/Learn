@@ -1,2 +1,2 @@
 # Java
-[Hello World][l/hello]
+[Hello World](l/hello)
